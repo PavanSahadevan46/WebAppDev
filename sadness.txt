@@ -1,0 +1,16 @@
+Victoria & Albert Museum
+.Use their api,v.2
+.search and browse the museum's collection
+
+
+Needs to be dynamic
+follow SPA(single page application)
+provide html form for users to enter search term
+use asynchronous HTTP request to query API with search term
+dynamically display the results
+	.image
+	.title
+	.description
+	.date
+follow best coding practices 
+use VANILLA html,css and javascript NO FRAMEWORKS (no bootstrap)
